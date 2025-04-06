@@ -3,10 +3,9 @@
     margin: 0px;
     padding: 0px;
 }
-table{
-    border: none;
-    width: 400px;
+li{
+    list-style-type: none;
 }
-tr:nth-child(even){
+li:nth-child(even){
     background-color: aqua;
 }
